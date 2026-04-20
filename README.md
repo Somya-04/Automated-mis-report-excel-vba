@@ -1,6 +1,6 @@
 # 📊 Automated Sales MIS Report — Excel + VBA
 
-([MIS Report Preview](excel project.png))
+![MIS Report Preview](excel project.png)
 
 ---
 
